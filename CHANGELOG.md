@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-mongodb-passport` will be documented in this file
 
+## 2.1.0 - 2022-07-26
+- VT fork
+- add support for passport 10
+
 ## 1.1.4 - 2018-08-13
 - add support for passport 7
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignMyNight\Mongodb\Passport;
+namespace VirtualTwins\Mongodb\Passport;
 
 use Zend\Diactoros\Response;
 use Zend\Diactoros\ServerRequest;
